@@ -30,7 +30,6 @@ atlassian*
 /nginx.conf.sample
 /package.json.sample
 /php.ini.sample
-/vendor
 /bin
 /dev
 /lib
