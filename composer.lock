@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "099f542ea79716205ca3d1cc2c478c34",
+    "content-hash": "48b772ab71b9620645d45240dfaf56cd",
     "packages": [
         {
             "name": "2tvenom/cborencode",
@@ -18469,6 +18469,63 @@
                 "source": "https://github.com/Seldaek/phar-utils/tree/master"
             },
             "time": "2020-07-07T18:42:57+00:00"
+        },
+        {
+            "name": "snowdog/frontools",
+            "version": "1.11.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/SnowdogApps/magento2-frontools.git",
+                "reference": "9f1a08db2bbdeabc09ab9ba86fd3a8d3c2984e19"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/SnowdogApps/magento2-frontools/zipball/9f1a08db2bbdeabc09ab9ba86fd3a8d3c2984e19",
+                "reference": "9f1a08db2bbdeabc09ab9ba86fd3a8d3c2984e19",
+                "shasum": ""
+            },
+            "type": "magento2-component",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Set of front-end tools for Magento 2, based on Gulp.js",
+            "support": {
+                "issues": "https://github.com/SnowdogApps/magento2-frontools/issues",
+                "source": "https://github.com/SnowdogApps/magento2-frontools/tree/1.11.0"
+            },
+            "time": "2020-11-16T23:05:37+00:00"
+        },
+        {
+            "name": "snowdog/theme-blank-sass",
+            "version": "1.5.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/SnowdogApps/magento2-theme-blank-sass.git",
+                "reference": "14f1e6d4944c632e6f5cd46dbbcb31bbc9570809"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/SnowdogApps/magento2-theme-blank-sass/zipball/14f1e6d4944c632e6f5cd46dbbcb31bbc9570809",
+                "reference": "14f1e6d4944c632e6f5cd46dbbcb31bbc9570809",
+                "shasum": ""
+            },
+            "type": "magento2-theme",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "SASS based version of Magento 2 Blank theme",
+            "support": {
+                "issues": "https://github.com/SnowdogApps/magento2-theme-blank-sass/issues",
+                "source": "https://github.com/SnowdogApps/magento2-theme-blank-sass/tree/1.5.0"
+            },
+            "time": "2020-10-26T12:38:16+00:00"
         },
         {
             "name": "spomky-labs/otphp",

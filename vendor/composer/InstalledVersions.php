@@ -4756,6 +4756,24 @@ private static $installed = array (
       ),
       'reference' => '8674b1d84ffb47cc59a101f5d5a3b61e87d23796',
     ),
+    'snowdog/frontools' => 
+    array (
+      'pretty_version' => '1.11.0',
+      'version' => '1.11.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '9f1a08db2bbdeabc09ab9ba86fd3a8d3c2984e19',
+    ),
+    'snowdog/theme-blank-sass' => 
+    array (
+      'pretty_version' => '1.5.0',
+      'version' => '1.5.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '14f1e6d4944c632e6f5cd46dbbcb31bbc9570809',
+    ),
     'spomky-labs/otphp' => 
     array (
       'pretty_version' => 'v10.0.1',
